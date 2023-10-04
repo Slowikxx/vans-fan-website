@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Vans Fan Website
 
-Currently, two official plugins are available:
+A frontend project of Vans landing page. Created using React and Framer Motion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Acknowledgements
+
+This project is my interpretation of @adrianhajdin's Nike Landing Page project.
+
+Link to orginal repository: https://github.com/adrianhajdin/nike_landing_page
+
+
+## Disclaimer
+
+I do not own any rights to Vans company or logo.
+
+This is not a commercial project.
+
+This website was created for fun and educational purposes only.
